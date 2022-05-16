@@ -1,2 +1,2 @@
 # loadingpage
- Minha loading pege 
+ Minha loading page 
